@@ -7,7 +7,7 @@ To write a C function to perform post order traversal of a binary tree.
 
 1.Start
 
-2.Define a function display_postOrder() that takes a pointer to the root node of the tree.
+2.Define a function postOrder() that takes a pointer to the root node of the tree.
 
 3.Check if the current node (root_node) is not null.
 
