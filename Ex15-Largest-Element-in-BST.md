@@ -4,11 +4,14 @@
 To Write a c program to find the largest value in a Binary Search Tree.
 
 ## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
+
+1.Initialize a pointer to the root of the BST.
+
+2.Move to the right child in a loop while it exists.
+
+3.Stop when the right child is NULL.
+
+4.Return the current node’s value as the largest.
 
 ## Program:
 ```
